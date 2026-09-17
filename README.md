@@ -79,7 +79,7 @@ You can run this project either fully in Docker (recommended — no local Postgr
 **1. Clone and configure environment variables**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/wadhwashivam/File-Uploader
 cd project-file-uploader
 ```
 
